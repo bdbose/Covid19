@@ -1,0 +1,2904 @@
+[
+    {
+    "name": "India",
+    "confirmed": {
+    "value": 78810,
+    "detail": "https://covid19.mathdro.id/api/countries/India/confirmed"
+    },
+    "recovered": {
+    "value": 26675,
+    "detail": "https://covid19.mathdro.id/api/countries/India/recovered"
+    },
+    "deaths": {
+    "value": 2564,
+    "detail": "https://covid19.mathdro.id/api/countries/India/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "China",
+    "confirmed": {
+    "value": 84025,
+    "detail": "https://covid19.mathdro.id/api/countries/China/confirmed"
+    },
+    "recovered": {
+    "value": 79252,
+    "detail": "https://covid19.mathdro.id/api/countries/China/recovered"
+    },
+    "deaths": {
+    "value": 4637,
+    "detail": "https://covid19.mathdro.id/api/countries/China/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Diamond Princess",
+    "confirmed": {
+    "value": 712,
+    "detail": "https://covid19.mathdro.id/api/countries/Diamond Princess/confirmed"
+    },
+    "recovered": {
+    "value": 651,
+    "detail": "https://covid19.mathdro.id/api/countries/Diamond Princess/recovered"
+    },
+    "deaths": {
+    "value": 13,
+    "detail": "https://covid19.mathdro.id/api/countries/Diamond Princess/deaths"
+    },
+    "lastUpdate": "2020-05-14T09:32:23.000Z"
+    },
+    {
+    "name": "United Kingdom",
+    "confirmed": {
+    "value": 230985,
+    "detail": "https://covid19.mathdro.id/api/countries/United Kingdom/confirmed"
+    },
+    "recovered": {
+    "value": 1032,
+    "detail": "https://covid19.mathdro.id/api/countries/United Kingdom/recovered"
+    },
+    "deaths": {
+    "value": 33264,
+    "detail": "https://covid19.mathdro.id/api/countries/United Kingdom/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Syria",
+    "confirmed": {
+    "value": 48,
+    "detail": "https://covid19.mathdro.id/api/countries/Syria/confirmed"
+    },
+    "recovered": {
+    "value": 29,
+    "detail": "https://covid19.mathdro.id/api/countries/Syria/recovered"
+    },
+    "deaths": {
+    "value": 3,
+    "detail": "https://covid19.mathdro.id/api/countries/Syria/deaths"
+    },
+    "lastUpdate": "2020-05-14T10:32:26.000Z"
+    },
+    {
+    "name": "Vietnam",
+    "confirmed": {
+    "value": 288,
+    "detail": "https://covid19.mathdro.id/api/countries/Vietnam/confirmed"
+    },
+    "recovered": {
+    "value": 252,
+    "detail": "https://covid19.mathdro.id/api/countries/Vietnam/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Vietnam/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Brunei",
+    "confirmed": {
+    "value": 141,
+    "detail": "https://covid19.mathdro.id/api/countries/Brunei/confirmed"
+    },
+    "recovered": {
+    "value": 134,
+    "detail": "https://covid19.mathdro.id/api/countries/Brunei/recovered"
+    },
+    "deaths": {
+    "value": 1,
+    "detail": "https://covid19.mathdro.id/api/countries/Brunei/deaths"
+    },
+    "lastUpdate": "2020-05-14T04:32:26.000Z"
+    },
+    {
+    "name": "Bolivia",
+    "confirmed": {
+    "value": 3148,
+    "detail": "https://covid19.mathdro.id/api/countries/Bolivia/confirmed"
+    },
+    "recovered": {
+    "value": 339,
+    "detail": "https://covid19.mathdro.id/api/countries/Bolivia/recovered"
+    },
+    "deaths": {
+    "value": 142,
+    "detail": "https://covid19.mathdro.id/api/countries/Bolivia/deaths"
+    },
+    "lastUpdate": "2020-05-14T07:32:28.000Z"
+    },
+    {
+    "name": "Czechia",
+    "confirmed": {
+    "value": 8269,
+    "detail": "https://covid19.mathdro.id/api/countries/Czechia/confirmed"
+    },
+    "recovered": {
+    "value": 5047,
+    "detail": "https://covid19.mathdro.id/api/countries/Czechia/recovered"
+    },
+    "deaths": {
+    "value": 290,
+    "detail": "https://covid19.mathdro.id/api/countries/Czechia/deaths"
+    },
+    "lastUpdate": "2020-05-14T04:32:26.000Z"
+    },
+    {
+    "name": "MS Zaandam",
+    "confirmed": {
+    "value": 9,
+    "detail": "https://covid19.mathdro.id/api/countries/MS Zaandam/confirmed"
+    },
+    "recovered": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/MS Zaandam/recovered"
+    },
+    "deaths": {
+    "value": 2,
+    "detail": "https://covid19.mathdro.id/api/countries/MS Zaandam/deaths"
+    },
+    "lastUpdate": "2020-05-14T09:32:23.000Z"
+    },
+    {
+    "name": "Eswatini",
+    "confirmed": {
+    "value": 187,
+    "detail": "https://covid19.mathdro.id/api/countries/Eswatini/confirmed"
+    },
+    "recovered": {
+    "value": 48,
+    "detail": "https://covid19.mathdro.id/api/countries/Eswatini/recovered"
+    },
+    "deaths": {
+    "value": 2,
+    "detail": "https://covid19.mathdro.id/api/countries/Eswatini/deaths"
+    },
+    "lastUpdate": "2020-05-14T04:32:26.000Z"
+    },
+    {
+    "name": "Congo (Brazzaville)",
+    "confirmed": {
+    "value": 333,
+    "detail": "https://covid19.mathdro.id/api/countries/Congo (Brazzaville)/confirmed"
+    },
+    "recovered": {
+    "value": 53,
+    "detail": "https://covid19.mathdro.id/api/countries/Congo (Brazzaville)/recovered"
+    },
+    "deaths": {
+    "value": 11,
+    "detail": "https://covid19.mathdro.id/api/countries/Congo (Brazzaville)/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Kosovo",
+    "confirmed": {
+    "value": 919,
+    "detail": "https://covid19.mathdro.id/api/countries/Kosovo/confirmed"
+    },
+    "recovered": {
+    "value": 671,
+    "detail": "https://covid19.mathdro.id/api/countries/Kosovo/recovered"
+    },
+    "deaths": {
+    "value": 29,
+    "detail": "https://covid19.mathdro.id/api/countries/Kosovo/deaths"
+    },
+    "lastUpdate": "2020-05-14T08:32:29.000Z"
+    },
+    {
+    "name": "Taiwan*",
+    "confirmed": {
+    "value": 440,
+    "detail": "https://covid19.mathdro.id/api/countries/Taiwan*/confirmed"
+    },
+    "recovered": {
+    "value": 383,
+    "detail": "https://covid19.mathdro.id/api/countries/Taiwan*/recovered"
+    },
+    "deaths": {
+    "value": 7,
+    "detail": "https://covid19.mathdro.id/api/countries/Taiwan*/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Bahamas",
+    "confirmed": {
+    "value": 94,
+    "detail": "https://covid19.mathdro.id/api/countries/Bahamas/confirmed"
+    },
+    "recovered": {
+    "value": 41,
+    "detail": "https://covid19.mathdro.id/api/countries/Bahamas/recovered"
+    },
+    "deaths": {
+    "value": 11,
+    "detail": "https://covid19.mathdro.id/api/countries/Bahamas/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Iran",
+    "confirmed": {
+    "value": 112725,
+    "detail": "https://covid19.mathdro.id/api/countries/Iran/confirmed"
+    },
+    "recovered": {
+    "value": 89428,
+    "detail": "https://covid19.mathdro.id/api/countries/Iran/recovered"
+    },
+    "deaths": {
+    "value": 6783,
+    "detail": "https://covid19.mathdro.id/api/countries/Iran/deaths"
+    },
+    "lastUpdate": "2020-05-14T08:32:29.000Z"
+    },
+    {
+    "name": "Moldova",
+    "confirmed": {
+    "value": 5406,
+    "detail": "https://covid19.mathdro.id/api/countries/Moldova/confirmed"
+    },
+    "recovered": {
+    "value": 2176,
+    "detail": "https://covid19.mathdro.id/api/countries/Moldova/recovered"
+    },
+    "deaths": {
+    "value": 185,
+    "detail": "https://covid19.mathdro.id/api/countries/Moldova/deaths"
+    },
+    "lastUpdate": "2020-05-14T04:32:26.000Z"
+    },
+    {
+    "name": "Albania",
+    "confirmed": {
+    "value": 898,
+    "detail": "https://covid19.mathdro.id/api/countries/Albania/confirmed"
+    },
+    "recovered": {
+    "value": 694,
+    "detail": "https://covid19.mathdro.id/api/countries/Albania/recovered"
+    },
+    "deaths": {
+    "value": 31,
+    "detail": "https://covid19.mathdro.id/api/countries/Albania/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Antigua and Barbuda",
+    "confirmed": {
+    "value": 25,
+    "detail": "https://covid19.mathdro.id/api/countries/Antigua and Barbuda/confirmed"
+    },
+    "recovered": {
+    "value": 19,
+    "detail": "https://covid19.mathdro.id/api/countries/Antigua and Barbuda/recovered"
+    },
+    "deaths": {
+    "value": 3,
+    "detail": "https://covid19.mathdro.id/api/countries/Antigua and Barbuda/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Venezuela",
+    "confirmed": {
+    "value": 440,
+    "detail": "https://covid19.mathdro.id/api/countries/Venezuela/confirmed"
+    },
+    "recovered": {
+    "value": 220,
+    "detail": "https://covid19.mathdro.id/api/countries/Venezuela/recovered"
+    },
+    "deaths": {
+    "value": 10,
+    "detail": "https://covid19.mathdro.id/api/countries/Venezuela/deaths"
+    },
+    "lastUpdate": "2020-05-14T07:32:28.000Z"
+    },
+    {
+    "name": "Angola",
+    "confirmed": {
+    "value": 45,
+    "detail": "https://covid19.mathdro.id/api/countries/Angola/confirmed"
+    },
+    "recovered": {
+    "value": 14,
+    "detail": "https://covid19.mathdro.id/api/countries/Angola/recovered"
+    },
+    "deaths": {
+    "value": 2,
+    "detail": "https://covid19.mathdro.id/api/countries/Angola/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Bangladesh",
+    "confirmed": {
+    "value": 18863,
+    "detail": "https://covid19.mathdro.id/api/countries/Bangladesh/confirmed"
+    },
+    "recovered": {
+    "value": 3361,
+    "detail": "https://covid19.mathdro.id/api/countries/Bangladesh/recovered"
+    },
+    "deaths": {
+    "value": 283,
+    "detail": "https://covid19.mathdro.id/api/countries/Bangladesh/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Bulgaria",
+    "confirmed": {
+    "value": 2100,
+    "detail": "https://covid19.mathdro.id/api/countries/Bulgaria/confirmed"
+    },
+    "recovered": {
+    "value": 531,
+    "detail": "https://covid19.mathdro.id/api/countries/Bulgaria/recovered"
+    },
+    "deaths": {
+    "value": 99,
+    "detail": "https://covid19.mathdro.id/api/countries/Bulgaria/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Austria",
+    "confirmed": {
+    "value": 16058,
+    "detail": "https://covid19.mathdro.id/api/countries/Austria/confirmed"
+    },
+    "recovered": {
+    "value": 14405,
+    "detail": "https://covid19.mathdro.id/api/countries/Austria/recovered"
+    },
+    "deaths": {
+    "value": 626,
+    "detail": "https://covid19.mathdro.id/api/countries/Austria/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Russia",
+    "confirmed": {
+    "value": 252245,
+    "detail": "https://covid19.mathdro.id/api/countries/Russia/confirmed"
+    },
+    "recovered": {
+    "value": 53530,
+    "detail": "https://covid19.mathdro.id/api/countries/Russia/recovered"
+    },
+    "deaths": {
+    "value": 2305,
+    "detail": "https://covid19.mathdro.id/api/countries/Russia/deaths"
+    },
+    "lastUpdate": "2020-05-14T08:32:29.000Z"
+    },
+    {
+    "name": "Tanzania",
+    "confirmed": {
+    "value": 509,
+    "detail": "https://covid19.mathdro.id/api/countries/Tanzania/confirmed"
+    },
+    "recovered": {
+    "value": 183,
+    "detail": "https://covid19.mathdro.id/api/countries/Tanzania/recovered"
+    },
+    "deaths": {
+    "value": 21,
+    "detail": "https://covid19.mathdro.id/api/countries/Tanzania/deaths"
+    },
+    "lastUpdate": "2020-05-14T04:32:26.000Z"
+    },
+    {
+    "name": "Congo (Kinshasa)",
+    "confirmed": {
+    "value": 1169,
+    "detail": "https://covid19.mathdro.id/api/countries/Congo (Kinshasa)/confirmed"
+    },
+    "recovered": {
+    "value": 148,
+    "detail": "https://covid19.mathdro.id/api/countries/Congo (Kinshasa)/recovered"
+    },
+    "deaths": {
+    "value": 50,
+    "detail": "https://covid19.mathdro.id/api/countries/Congo (Kinshasa)/deaths"
+    },
+    "lastUpdate": "2020-05-14T04:32:26.000Z"
+    },
+    {
+    "name": "Cabo Verde",
+    "confirmed": {
+    "value": 289,
+    "detail": "https://covid19.mathdro.id/api/countries/Cabo Verde/confirmed"
+    },
+    "recovered": {
+    "value": 61,
+    "detail": "https://covid19.mathdro.id/api/countries/Cabo Verde/recovered"
+    },
+    "deaths": {
+    "value": 2,
+    "detail": "https://covid19.mathdro.id/api/countries/Cabo Verde/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Costa Rica",
+    "confirmed": {
+    "value": 815,
+    "detail": "https://covid19.mathdro.id/api/countries/Costa Rica/confirmed"
+    },
+    "recovered": {
+    "value": 527,
+    "detail": "https://covid19.mathdro.id/api/countries/Costa Rica/recovered"
+    },
+    "deaths": {
+    "value": 8,
+    "detail": "https://covid19.mathdro.id/api/countries/Costa Rica/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Barbados",
+    "confirmed": {
+    "value": 85,
+    "detail": "https://covid19.mathdro.id/api/countries/Barbados/confirmed"
+    },
+    "recovered": {
+    "value": 65,
+    "detail": "https://covid19.mathdro.id/api/countries/Barbados/recovered"
+    },
+    "deaths": {
+    "value": 7,
+    "detail": "https://covid19.mathdro.id/api/countries/Barbados/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Azerbaijan",
+    "confirmed": {
+    "value": 2758,
+    "detail": "https://covid19.mathdro.id/api/countries/Azerbaijan/confirmed"
+    },
+    "recovered": {
+    "value": 1789,
+    "detail": "https://covid19.mathdro.id/api/countries/Azerbaijan/recovered"
+    },
+    "deaths": {
+    "value": 35,
+    "detail": "https://covid19.mathdro.id/api/countries/Azerbaijan/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Korea, South",
+    "confirmed": {
+    "value": 10991,
+    "detail": "https://covid19.mathdro.id/api/countries/Korea, South/confirmed"
+    },
+    "recovered": {
+    "value": 9762,
+    "detail": "https://covid19.mathdro.id/api/countries/Korea, South/recovered"
+    },
+    "deaths": {
+    "value": 260,
+    "detail": "https://covid19.mathdro.id/api/countries/Korea, South/deaths"
+    },
+    "lastUpdate": "2020-05-14T08:32:29.000Z"
+    },
+    {
+    "name": "Croatia",
+    "confirmed": {
+    "value": 2213,
+    "detail": "https://covid19.mathdro.id/api/countries/Croatia/confirmed"
+    },
+    "recovered": {
+    "value": 1834,
+    "detail": "https://covid19.mathdro.id/api/countries/Croatia/recovered"
+    },
+    "deaths": {
+    "value": 94,
+    "detail": "https://covid19.mathdro.id/api/countries/Croatia/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Belgium",
+    "confirmed": {
+    "value": 54288,
+    "detail": "https://covid19.mathdro.id/api/countries/Belgium/confirmed"
+    },
+    "recovered": {
+    "value": 14111,
+    "detail": "https://covid19.mathdro.id/api/countries/Belgium/recovered"
+    },
+    "deaths": {
+    "value": 8903,
+    "detail": "https://covid19.mathdro.id/api/countries/Belgium/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Botswana",
+    "confirmed": {
+    "value": 24,
+    "detail": "https://covid19.mathdro.id/api/countries/Botswana/confirmed"
+    },
+    "recovered": {
+    "value": 17,
+    "detail": "https://covid19.mathdro.id/api/countries/Botswana/recovered"
+    },
+    "deaths": {
+    "value": 1,
+    "detail": "https://covid19.mathdro.id/api/countries/Botswana/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Dominica",
+    "confirmed": {
+    "value": 16,
+    "detail": "https://covid19.mathdro.id/api/countries/Dominica/confirmed"
+    },
+    "recovered": {
+    "value": 15,
+    "detail": "https://covid19.mathdro.id/api/countries/Dominica/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Dominica/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Bahrain",
+    "confirmed": {
+    "value": 5816,
+    "detail": "https://covid19.mathdro.id/api/countries/Bahrain/confirmed"
+    },
+    "recovered": {
+    "value": 2205,
+    "detail": "https://covid19.mathdro.id/api/countries/Bahrain/recovered"
+    },
+    "deaths": {
+    "value": 10,
+    "detail": "https://covid19.mathdro.id/api/countries/Bahrain/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Canada",
+    "confirmed": {
+    "value": 73568,
+    "detail": "https://covid19.mathdro.id/api/countries/Canada/confirmed"
+    },
+    "recovered": {
+    "value": 35177,
+    "detail": "https://covid19.mathdro.id/api/countries/Canada/recovered"
+    },
+    "deaths": {
+    "value": 5425,
+    "detail": "https://covid19.mathdro.id/api/countries/Canada/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "North Macedonia",
+    "confirmed": {
+    "value": 1694,
+    "detail": "https://covid19.mathdro.id/api/countries/North Macedonia/confirmed"
+    },
+    "recovered": {
+    "value": 1229,
+    "detail": "https://covid19.mathdro.id/api/countries/North Macedonia/recovered"
+    },
+    "deaths": {
+    "value": 95,
+    "detail": "https://covid19.mathdro.id/api/countries/North Macedonia/deaths"
+    },
+    "lastUpdate": "2020-05-14T04:32:26.000Z"
+    },
+    {
+    "name": "Cuba",
+    "confirmed": {
+    "value": 1810,
+    "detail": "https://covid19.mathdro.id/api/countries/Cuba/confirmed"
+    },
+    "recovered": {
+    "value": 1326,
+    "detail": "https://covid19.mathdro.id/api/countries/Cuba/recovered"
+    },
+    "deaths": {
+    "value": 79,
+    "detail": "https://covid19.mathdro.id/api/countries/Cuba/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Cambodia",
+    "confirmed": {
+    "value": 122,
+    "detail": "https://covid19.mathdro.id/api/countries/Cambodia/confirmed"
+    },
+    "recovered": {
+    "value": 121,
+    "detail": "https://covid19.mathdro.id/api/countries/Cambodia/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Cambodia/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Australia",
+    "confirmed": {
+    "value": 6989,
+    "detail": "https://covid19.mathdro.id/api/countries/Australia/confirmed"
+    },
+    "recovered": {
+    "value": 6301,
+    "detail": "https://covid19.mathdro.id/api/countries/Australia/recovered"
+    },
+    "deaths": {
+    "value": 98,
+    "detail": "https://covid19.mathdro.id/api/countries/Australia/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Denmark",
+    "confirmed": {
+    "value": 10911,
+    "detail": "https://covid19.mathdro.id/api/countries/Denmark/confirmed"
+    },
+    "recovered": {
+    "value": 9003,
+    "detail": "https://covid19.mathdro.id/api/countries/Denmark/recovered"
+    },
+    "deaths": {
+    "value": 537,
+    "detail": "https://covid19.mathdro.id/api/countries/Denmark/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Bhutan",
+    "confirmed": {
+    "value": 19,
+    "detail": "https://covid19.mathdro.id/api/countries/Bhutan/confirmed"
+    },
+    "recovered": {
+    "value": 5,
+    "detail": "https://covid19.mathdro.id/api/countries/Bhutan/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Bhutan/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Israel",
+    "confirmed": {
+    "value": 16567,
+    "detail": "https://covid19.mathdro.id/api/countries/Israel/confirmed"
+    },
+    "recovered": {
+    "value": 12364,
+    "detail": "https://covid19.mathdro.id/api/countries/Israel/recovered"
+    },
+    "deaths": {
+    "value": 264,
+    "detail": "https://covid19.mathdro.id/api/countries/Israel/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Indonesia",
+    "confirmed": {
+    "value": 16006,
+    "detail": "https://covid19.mathdro.id/api/countries/Indonesia/confirmed"
+    },
+    "recovered": {
+    "value": 3518,
+    "detail": "https://covid19.mathdro.id/api/countries/Indonesia/recovered"
+    },
+    "deaths": {
+    "value": 1043,
+    "detail": "https://covid19.mathdro.id/api/countries/Indonesia/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Andorra",
+    "confirmed": {
+    "value": 760,
+    "detail": "https://covid19.mathdro.id/api/countries/Andorra/confirmed"
+    },
+    "recovered": {
+    "value": 576,
+    "detail": "https://covid19.mathdro.id/api/countries/Andorra/recovered"
+    },
+    "deaths": {
+    "value": 49,
+    "detail": "https://covid19.mathdro.id/api/countries/Andorra/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "West Bank and Gaza",
+    "confirmed": {
+    "value": 375,
+    "detail": "https://covid19.mathdro.id/api/countries/West Bank and Gaza/confirmed"
+    },
+    "recovered": {
+    "value": 310,
+    "detail": "https://covid19.mathdro.id/api/countries/West Bank and Gaza/recovered"
+    },
+    "deaths": {
+    "value": 2,
+    "detail": "https://covid19.mathdro.id/api/countries/West Bank and Gaza/deaths"
+    },
+    "lastUpdate": "2020-05-14T04:32:26.000Z"
+    },
+    {
+    "name": "France",
+    "confirmed": {
+    "value": 178184,
+    "detail": "https://covid19.mathdro.id/api/countries/France/confirmed"
+    },
+    "recovered": {
+    "value": 58786,
+    "detail": "https://covid19.mathdro.id/api/countries/France/recovered"
+    },
+    "deaths": {
+    "value": 27077,
+    "detail": "https://covid19.mathdro.id/api/countries/France/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Grenada",
+    "confirmed": {
+    "value": 21,
+    "detail": "https://covid19.mathdro.id/api/countries/Grenada/confirmed"
+    },
+    "recovered": {
+    "value": 13,
+    "detail": "https://covid19.mathdro.id/api/countries/Grenada/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Grenada/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Italy",
+    "confirmed": {
+    "value": 222104,
+    "detail": "https://covid19.mathdro.id/api/countries/Italy/confirmed"
+    },
+    "recovered": {
+    "value": 112541,
+    "detail": "https://covid19.mathdro.id/api/countries/Italy/recovered"
+    },
+    "deaths": {
+    "value": 31106,
+    "detail": "https://covid19.mathdro.id/api/countries/Italy/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Guinea",
+    "confirmed": {
+    "value": 2374,
+    "detail": "https://covid19.mathdro.id/api/countries/Guinea/confirmed"
+    },
+    "recovered": {
+    "value": 856,
+    "detail": "https://covid19.mathdro.id/api/countries/Guinea/recovered"
+    },
+    "deaths": {
+    "value": 14,
+    "detail": "https://covid19.mathdro.id/api/countries/Guinea/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Jamaica",
+    "confirmed": {
+    "value": 509,
+    "detail": "https://covid19.mathdro.id/api/countries/Jamaica/confirmed"
+    },
+    "recovered": {
+    "value": 113,
+    "detail": "https://covid19.mathdro.id/api/countries/Jamaica/recovered"
+    },
+    "deaths": {
+    "value": 9,
+    "detail": "https://covid19.mathdro.id/api/countries/Jamaica/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Lithuania",
+    "confirmed": {
+    "value": 1511,
+    "detail": "https://covid19.mathdro.id/api/countries/Lithuania/confirmed"
+    },
+    "recovered": {
+    "value": 934,
+    "detail": "https://covid19.mathdro.id/api/countries/Lithuania/recovered"
+    },
+    "deaths": {
+    "value": 54,
+    "detail": "https://covid19.mathdro.id/api/countries/Lithuania/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "El Salvador",
+    "confirmed": {
+    "value": 1112,
+    "detail": "https://covid19.mathdro.id/api/countries/El Salvador/confirmed"
+    },
+    "recovered": {
+    "value": 405,
+    "detail": "https://covid19.mathdro.id/api/countries/El Salvador/recovered"
+    },
+    "deaths": {
+    "value": 20,
+    "detail": "https://covid19.mathdro.id/api/countries/El Salvador/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Honduras",
+    "confirmed": {
+    "value": 2255,
+    "detail": "https://covid19.mathdro.id/api/countries/Honduras/confirmed"
+    },
+    "recovered": {
+    "value": 237,
+    "detail": "https://covid19.mathdro.id/api/countries/Honduras/recovered"
+    },
+    "deaths": {
+    "value": 123,
+    "detail": "https://covid19.mathdro.id/api/countries/Honduras/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Gambia"
+    },
+    {
+    "name": "Ireland",
+    "confirmed": {
+    "value": 23401,
+    "detail": "https://covid19.mathdro.id/api/countries/Ireland/confirmed"
+    },
+    "recovered": {
+    "value": 19470,
+    "detail": "https://covid19.mathdro.id/api/countries/Ireland/recovered"
+    },
+    "deaths": {
+    "value": 1497,
+    "detail": "https://covid19.mathdro.id/api/countries/Ireland/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Japan",
+    "confirmed": {
+    "value": 16049,
+    "detail": "https://covid19.mathdro.id/api/countries/Japan/confirmed"
+    },
+    "recovered": {
+    "value": 8920,
+    "detail": "https://covid19.mathdro.id/api/countries/Japan/recovered"
+    },
+    "deaths": {
+    "value": 678,
+    "detail": "https://covid19.mathdro.id/api/countries/Japan/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Estonia",
+    "confirmed": {
+    "value": 1758,
+    "detail": "https://covid19.mathdro.id/api/countries/Estonia/confirmed"
+    },
+    "recovered": {
+    "value": 909,
+    "detail": "https://covid19.mathdro.id/api/countries/Estonia/recovered"
+    },
+    "deaths": {
+    "value": 62,
+    "detail": "https://covid19.mathdro.id/api/countries/Estonia/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Luxembourg",
+    "confirmed": {
+    "value": 3904,
+    "detail": "https://covid19.mathdro.id/api/countries/Luxembourg/confirmed"
+    },
+    "recovered": {
+    "value": 3629,
+    "detail": "https://covid19.mathdro.id/api/countries/Luxembourg/recovered"
+    },
+    "deaths": {
+    "value": 103,
+    "detail": "https://covid19.mathdro.id/api/countries/Luxembourg/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Georgia",
+    "confirmed": {
+    "value": 652,
+    "detail": "https://covid19.mathdro.id/api/countries/Georgia/confirmed"
+    },
+    "recovered": {
+    "value": 383,
+    "detail": "https://covid19.mathdro.id/api/countries/Georgia/recovered"
+    },
+    "deaths": {
+    "value": 12,
+    "detail": "https://covid19.mathdro.id/api/countries/Georgia/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Ghana",
+    "confirmed": {
+    "value": 5408,
+    "detail": "https://covid19.mathdro.id/api/countries/Ghana/confirmed"
+    },
+    "recovered": {
+    "value": 514,
+    "detail": "https://covid19.mathdro.id/api/countries/Ghana/recovered"
+    },
+    "deaths": {
+    "value": 24,
+    "detail": "https://covid19.mathdro.id/api/countries/Ghana/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Mauritius",
+    "confirmed": {
+    "value": 332,
+    "detail": "https://covid19.mathdro.id/api/countries/Mauritius/confirmed"
+    },
+    "recovered": {
+    "value": 322,
+    "detail": "https://covid19.mathdro.id/api/countries/Mauritius/recovered"
+    },
+    "deaths": {
+    "value": 10,
+    "detail": "https://covid19.mathdro.id/api/countries/Mauritius/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Hungary",
+    "confirmed": {
+    "value": 3380,
+    "detail": "https://covid19.mathdro.id/api/countries/Hungary/confirmed"
+    },
+    "recovered": {
+    "value": 1169,
+    "detail": "https://covid19.mathdro.id/api/countries/Hungary/recovered"
+    },
+    "deaths": {
+    "value": 436,
+    "detail": "https://covid19.mathdro.id/api/countries/Hungary/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Kuwait",
+    "confirmed": {
+    "value": 11028,
+    "detail": "https://covid19.mathdro.id/api/countries/Kuwait/confirmed"
+    },
+    "recovered": {
+    "value": 3263,
+    "detail": "https://covid19.mathdro.id/api/countries/Kuwait/recovered"
+    },
+    "deaths": {
+    "value": 82,
+    "detail": "https://covid19.mathdro.id/api/countries/Kuwait/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Maldives",
+    "confirmed": {
+    "value": 955,
+    "detail": "https://covid19.mathdro.id/api/countries/Maldives/confirmed"
+    },
+    "recovered": {
+    "value": 40,
+    "detail": "https://covid19.mathdro.id/api/countries/Maldives/recovered"
+    },
+    "deaths": {
+    "value": 4,
+    "detail": "https://covid19.mathdro.id/api/countries/Maldives/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Greece",
+    "confirmed": {
+    "value": 2760,
+    "detail": "https://covid19.mathdro.id/api/countries/Greece/confirmed"
+    },
+    "recovered": {
+    "value": 1374,
+    "detail": "https://covid19.mathdro.id/api/countries/Greece/recovered"
+    },
+    "deaths": {
+    "value": 155,
+    "detail": "https://covid19.mathdro.id/api/countries/Greece/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Liechtenstein",
+    "confirmed": {
+    "value": 82,
+    "detail": "https://covid19.mathdro.id/api/countries/Liechtenstein/confirmed"
+    },
+    "recovered": {
+    "value": 55,
+    "detail": "https://covid19.mathdro.id/api/countries/Liechtenstein/recovered"
+    },
+    "deaths": {
+    "value": 1,
+    "detail": "https://covid19.mathdro.id/api/countries/Liechtenstein/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Iceland",
+    "confirmed": {
+    "value": 1802,
+    "detail": "https://covid19.mathdro.id/api/countries/Iceland/confirmed"
+    },
+    "recovered": {
+    "value": 1780,
+    "detail": "https://covid19.mathdro.id/api/countries/Iceland/recovered"
+    },
+    "deaths": {
+    "value": 10,
+    "detail": "https://covid19.mathdro.id/api/countries/Iceland/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Gabon",
+    "confirmed": {
+    "value": 1004,
+    "detail": "https://covid19.mathdro.id/api/countries/Gabon/confirmed"
+    },
+    "recovered": {
+    "value": 152,
+    "detail": "https://covid19.mathdro.id/api/countries/Gabon/recovered"
+    },
+    "deaths": {
+    "value": 9,
+    "detail": "https://covid19.mathdro.id/api/countries/Gabon/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Germany",
+    "confirmed": {
+    "value": 174098,
+    "detail": "https://covid19.mathdro.id/api/countries/Germany/confirmed"
+    },
+    "recovered": {
+    "value": 150300,
+    "detail": "https://covid19.mathdro.id/api/countries/Germany/recovered"
+    },
+    "deaths": {
+    "value": 7861,
+    "detail": "https://covid19.mathdro.id/api/countries/Germany/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Haiti",
+    "confirmed": {
+    "value": 234,
+    "detail": "https://covid19.mathdro.id/api/countries/Haiti/confirmed"
+    },
+    "recovered": {
+    "value": 17,
+    "detail": "https://covid19.mathdro.id/api/countries/Haiti/recovered"
+    },
+    "deaths": {
+    "value": 18,
+    "detail": "https://covid19.mathdro.id/api/countries/Haiti/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "World"
+    },
+    {
+    "name": "Mali",
+    "confirmed": {
+    "value": 758,
+    "detail": "https://covid19.mathdro.id/api/countries/Mali/confirmed"
+    },
+    "recovered": {
+    "value": 412,
+    "detail": "https://covid19.mathdro.id/api/countries/Mali/recovered"
+    },
+    "deaths": {
+    "value": 44,
+    "detail": "https://covid19.mathdro.id/api/countries/Mali/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Niger",
+    "confirmed": {
+    "value": 860,
+    "detail": "https://covid19.mathdro.id/api/countries/Niger/confirmed"
+    },
+    "recovered": {
+    "value": 658,
+    "detail": "https://covid19.mathdro.id/api/countries/Niger/recovered"
+    },
+    "deaths": {
+    "value": 49,
+    "detail": "https://covid19.mathdro.id/api/countries/Niger/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Malaysia",
+    "confirmed": {
+    "value": 6819,
+    "detail": "https://covid19.mathdro.id/api/countries/Malaysia/confirmed"
+    },
+    "recovered": {
+    "value": 5351,
+    "detail": "https://covid19.mathdro.id/api/countries/Malaysia/recovered"
+    },
+    "deaths": {
+    "value": 112,
+    "detail": "https://covid19.mathdro.id/api/countries/Malaysia/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Nigeria",
+    "confirmed": {
+    "value": 4971,
+    "detail": "https://covid19.mathdro.id/api/countries/Nigeria/confirmed"
+    },
+    "recovered": {
+    "value": 1070,
+    "detail": "https://covid19.mathdro.id/api/countries/Nigeria/recovered"
+    },
+    "deaths": {
+    "value": 164,
+    "detail": "https://covid19.mathdro.id/api/countries/Nigeria/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Panama",
+    "confirmed": {
+    "value": 8944,
+    "detail": "https://covid19.mathdro.id/api/countries/Panama/confirmed"
+    },
+    "recovered": {
+    "value": 6067,
+    "detail": "https://covid19.mathdro.id/api/countries/Panama/recovered"
+    },
+    "deaths": {
+    "value": 256,
+    "detail": "https://covid19.mathdro.id/api/countries/Panama/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Mongolia",
+    "confirmed": {
+    "value": 61,
+    "detail": "https://covid19.mathdro.id/api/countries/Mongolia/confirmed"
+    },
+    "recovered": {
+    "value": 15,
+    "detail": "https://covid19.mathdro.id/api/countries/Mongolia/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Mongolia/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Slovenia",
+    "confirmed": {
+    "value": 1464,
+    "detail": "https://covid19.mathdro.id/api/countries/Slovenia/confirmed"
+    },
+    "recovered": {
+    "value": 267,
+    "detail": "https://covid19.mathdro.id/api/countries/Slovenia/recovered"
+    },
+    "deaths": {
+    "value": 103,
+    "detail": "https://covid19.mathdro.id/api/countries/Slovenia/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Philippines",
+    "confirmed": {
+    "value": 11876,
+    "detail": "https://covid19.mathdro.id/api/countries/Philippines/confirmed"
+    },
+    "recovered": {
+    "value": 2337,
+    "detail": "https://covid19.mathdro.id/api/countries/Philippines/recovered"
+    },
+    "deaths": {
+    "value": 790,
+    "detail": "https://covid19.mathdro.id/api/countries/Philippines/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "New Zealand",
+    "confirmed": {
+    "value": 1497,
+    "detail": "https://covid19.mathdro.id/api/countries/New Zealand/confirmed"
+    },
+    "recovered": {
+    "value": 1411,
+    "detail": "https://covid19.mathdro.id/api/countries/New Zealand/recovered"
+    },
+    "deaths": {
+    "value": 21,
+    "detail": "https://covid19.mathdro.id/api/countries/New Zealand/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Oman",
+    "confirmed": {
+    "value": 4341,
+    "detail": "https://covid19.mathdro.id/api/countries/Oman/confirmed"
+    },
+    "recovered": {
+    "value": 1303,
+    "detail": "https://covid19.mathdro.id/api/countries/Oman/recovered"
+    },
+    "deaths": {
+    "value": 17,
+    "detail": "https://covid19.mathdro.id/api/countries/Oman/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Netherlands",
+    "confirmed": {
+    "value": 43680,
+    "detail": "https://covid19.mathdro.id/api/countries/Netherlands/confirmed"
+    },
+    "recovered": {
+    "value": 157,
+    "detail": "https://covid19.mathdro.id/api/countries/Netherlands/recovered"
+    },
+    "deaths": {
+    "value": 5609,
+    "detail": "https://covid19.mathdro.id/api/countries/Netherlands/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Monaco",
+    "confirmed": {
+    "value": 96,
+    "detail": "https://covid19.mathdro.id/api/countries/Monaco/confirmed"
+    },
+    "recovered": {
+    "value": 87,
+    "detail": "https://covid19.mathdro.id/api/countries/Monaco/recovered"
+    },
+    "deaths": {
+    "value": 4,
+    "detail": "https://covid19.mathdro.id/api/countries/Monaco/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Saint Lucia",
+    "confirmed": {
+    "value": 18,
+    "detail": "https://covid19.mathdro.id/api/countries/Saint Lucia/confirmed"
+    },
+    "recovered": {
+    "value": 18,
+    "detail": "https://covid19.mathdro.id/api/countries/Saint Lucia/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Saint Lucia/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Qatar",
+    "confirmed": {
+    "value": 28272,
+    "detail": "https://covid19.mathdro.id/api/countries/Qatar/confirmed"
+    },
+    "recovered": {
+    "value": 3356,
+    "detail": "https://covid19.mathdro.id/api/countries/Qatar/recovered"
+    },
+    "deaths": {
+    "value": 14,
+    "detail": "https://covid19.mathdro.id/api/countries/Qatar/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Switzerland",
+    "confirmed": {
+    "value": 30463,
+    "detail": "https://covid19.mathdro.id/api/countries/Switzerland/confirmed"
+    },
+    "recovered": {
+    "value": 27100,
+    "detail": "https://covid19.mathdro.id/api/countries/Switzerland/recovered"
+    },
+    "deaths": {
+    "value": 1870,
+    "detail": "https://covid19.mathdro.id/api/countries/Switzerland/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "San Marino",
+    "confirmed": {
+    "value": 643,
+    "detail": "https://covid19.mathdro.id/api/countries/San Marino/confirmed"
+    },
+    "recovered": {
+    "value": 161,
+    "detail": "https://covid19.mathdro.id/api/countries/San Marino/recovered"
+    },
+    "deaths": {
+    "value": 41,
+    "detail": "https://covid19.mathdro.id/api/countries/San Marino/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Liberia",
+    "confirmed": {
+    "value": 213,
+    "detail": "https://covid19.mathdro.id/api/countries/Liberia/confirmed"
+    },
+    "recovered": {
+    "value": 101,
+    "detail": "https://covid19.mathdro.id/api/countries/Liberia/recovered"
+    },
+    "deaths": {
+    "value": 20,
+    "detail": "https://covid19.mathdro.id/api/countries/Liberia/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Papua New Guinea",
+    "confirmed": {
+    "value": 8,
+    "detail": "https://covid19.mathdro.id/api/countries/Papua New Guinea/confirmed"
+    },
+    "recovered": {
+    "value": 8,
+    "detail": "https://covid19.mathdro.id/api/countries/Papua New Guinea/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Papua New Guinea/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Sri Lanka",
+    "confirmed": {
+    "value": 915,
+    "detail": "https://covid19.mathdro.id/api/countries/Sri Lanka/confirmed"
+    },
+    "recovered": {
+    "value": 445,
+    "detail": "https://covid19.mathdro.id/api/countries/Sri Lanka/recovered"
+    },
+    "deaths": {
+    "value": 9,
+    "detail": "https://covid19.mathdro.id/api/countries/Sri Lanka/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Malawi",
+    "confirmed": {
+    "value": 63,
+    "detail": "https://covid19.mathdro.id/api/countries/Malawi/confirmed"
+    },
+    "recovered": {
+    "value": 24,
+    "detail": "https://covid19.mathdro.id/api/countries/Malawi/recovered"
+    },
+    "deaths": {
+    "value": 3,
+    "detail": "https://covid19.mathdro.id/api/countries/Malawi/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Nicaragua",
+    "confirmed": {
+    "value": 25,
+    "detail": "https://covid19.mathdro.id/api/countries/Nicaragua/confirmed"
+    },
+    "recovered": {
+    "value": 7,
+    "detail": "https://covid19.mathdro.id/api/countries/Nicaragua/recovered"
+    },
+    "deaths": {
+    "value": 8,
+    "detail": "https://covid19.mathdro.id/api/countries/Nicaragua/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Thailand",
+    "confirmed": {
+    "value": 3018,
+    "detail": "https://covid19.mathdro.id/api/countries/Thailand/confirmed"
+    },
+    "recovered": {
+    "value": 2850,
+    "detail": "https://covid19.mathdro.id/api/countries/Thailand/recovered"
+    },
+    "deaths": {
+    "value": 56,
+    "detail": "https://covid19.mathdro.id/api/countries/Thailand/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Malta",
+    "confirmed": {
+    "value": 522,
+    "detail": "https://covid19.mathdro.id/api/countries/Malta/confirmed"
+    },
+    "recovered": {
+    "value": 443,
+    "detail": "https://covid19.mathdro.id/api/countries/Malta/recovered"
+    },
+    "deaths": {
+    "value": 6,
+    "detail": "https://covid19.mathdro.id/api/countries/Malta/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Afghanistan",
+    "confirmed": {
+    "value": 5639,
+    "detail": "https://covid19.mathdro.id/api/countries/Afghanistan/confirmed"
+    },
+    "recovered": {
+    "value": 691,
+    "detail": "https://covid19.mathdro.id/api/countries/Afghanistan/recovered"
+    },
+    "deaths": {
+    "value": 136,
+    "detail": "https://covid19.mathdro.id/api/countries/Afghanistan/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Romania",
+    "confirmed": {
+    "value": 16247,
+    "detail": "https://covid19.mathdro.id/api/countries/Romania/confirmed"
+    },
+    "recovered": {
+    "value": 9053,
+    "detail": "https://covid19.mathdro.id/api/countries/Romania/recovered"
+    },
+    "deaths": {
+    "value": 1046,
+    "detail": "https://covid19.mathdro.id/api/countries/Romania/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Argentina",
+    "confirmed": {
+    "value": 6879,
+    "detail": "https://covid19.mathdro.id/api/countries/Argentina/confirmed"
+    },
+    "recovered": {
+    "value": 2266,
+    "detail": "https://covid19.mathdro.id/api/countries/Argentina/recovered"
+    },
+    "deaths": {
+    "value": 329,
+    "detail": "https://covid19.mathdro.id/api/countries/Argentina/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Benin",
+    "confirmed": {
+    "value": 327,
+    "detail": "https://covid19.mathdro.id/api/countries/Benin/confirmed"
+    },
+    "recovered": {
+    "value": 83,
+    "detail": "https://covid19.mathdro.id/api/countries/Benin/recovered"
+    },
+    "deaths": {
+    "value": 2,
+    "detail": "https://covid19.mathdro.id/api/countries/Benin/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Burkina Faso",
+    "confirmed": {
+    "value": 773,
+    "detail": "https://covid19.mathdro.id/api/countries/Burkina Faso/confirmed"
+    },
+    "recovered": {
+    "value": 592,
+    "detail": "https://covid19.mathdro.id/api/countries/Burkina Faso/recovered"
+    },
+    "deaths": {
+    "value": 51,
+    "detail": "https://covid19.mathdro.id/api/countries/Burkina Faso/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Burundi",
+    "confirmed": {
+    "value": 15,
+    "detail": "https://covid19.mathdro.id/api/countries/Burundi/confirmed"
+    },
+    "recovered": {
+    "value": 7,
+    "detail": "https://covid19.mathdro.id/api/countries/Burundi/recovered"
+    },
+    "deaths": {
+    "value": 1,
+    "detail": "https://covid19.mathdro.id/api/countries/Burundi/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Bosnia and Herzegovina",
+    "confirmed": {
+    "value": 2181,
+    "detail": "https://covid19.mathdro.id/api/countries/Bosnia and Herzegovina/confirmed"
+    },
+    "recovered": {
+    "value": 1228,
+    "detail": "https://covid19.mathdro.id/api/countries/Bosnia and Herzegovina/recovered"
+    },
+    "deaths": {
+    "value": 120,
+    "detail": "https://covid19.mathdro.id/api/countries/Bosnia and Herzegovina/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Algeria",
+    "confirmed": {
+    "value": 6253,
+    "detail": "https://covid19.mathdro.id/api/countries/Algeria/confirmed"
+    },
+    "recovered": {
+    "value": 3058,
+    "detail": "https://covid19.mathdro.id/api/countries/Algeria/recovered"
+    },
+    "deaths": {
+    "value": 522,
+    "detail": "https://covid19.mathdro.id/api/countries/Algeria/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Cote d'Ivoire",
+    "confirmed": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Cote d'Ivoire/confirmed"
+    },
+    "recovered": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Cote d'Ivoire/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Cote d'Ivoire/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:39:19.006Z"
+    },
+    {
+    "name": "Colombia",
+    "confirmed": {
+    "value": 12930,
+    "detail": "https://covid19.mathdro.id/api/countries/Colombia/confirmed"
+    },
+    "recovered": {
+    "value": 3133,
+    "detail": "https://covid19.mathdro.id/api/countries/Colombia/recovered"
+    },
+    "deaths": {
+    "value": 509,
+    "detail": "https://covid19.mathdro.id/api/countries/Colombia/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Brazil",
+    "confirmed": {
+    "value": 190137,
+    "detail": "https://covid19.mathdro.id/api/countries/Brazil/confirmed"
+    },
+    "recovered": {
+    "value": 78424,
+    "detail": "https://covid19.mathdro.id/api/countries/Brazil/recovered"
+    },
+    "deaths": {
+    "value": 13240,
+    "detail": "https://covid19.mathdro.id/api/countries/Brazil/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Eritrea",
+    "confirmed": {
+    "value": 39,
+    "detail": "https://covid19.mathdro.id/api/countries/Eritrea/confirmed"
+    },
+    "recovered": {
+    "value": 38,
+    "detail": "https://covid19.mathdro.id/api/countries/Eritrea/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Eritrea/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Chile",
+    "confirmed": {
+    "value": 34381,
+    "detail": "https://covid19.mathdro.id/api/countries/Chile/confirmed"
+    },
+    "recovered": {
+    "value": 14865,
+    "detail": "https://covid19.mathdro.id/api/countries/Chile/recovered"
+    },
+    "deaths": {
+    "value": 346,
+    "detail": "https://covid19.mathdro.id/api/countries/Chile/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Ecuador",
+    "confirmed": {
+    "value": 30486,
+    "detail": "https://covid19.mathdro.id/api/countries/Ecuador/confirmed"
+    },
+    "recovered": {
+    "value": 3433,
+    "detail": "https://covid19.mathdro.id/api/countries/Ecuador/recovered"
+    },
+    "deaths": {
+    "value": 2334,
+    "detail": "https://covid19.mathdro.id/api/countries/Ecuador/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Cyprus",
+    "confirmed": {
+    "value": 905,
+    "detail": "https://covid19.mathdro.id/api/countries/Cyprus/confirmed"
+    },
+    "recovered": {
+    "value": 449,
+    "detail": "https://covid19.mathdro.id/api/countries/Cyprus/recovered"
+    },
+    "deaths": {
+    "value": 17,
+    "detail": "https://covid19.mathdro.id/api/countries/Cyprus/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Chad",
+    "confirmed": {
+    "value": 372,
+    "detail": "https://covid19.mathdro.id/api/countries/Chad/confirmed"
+    },
+    "recovered": {
+    "value": 78,
+    "detail": "https://covid19.mathdro.id/api/countries/Chad/recovered"
+    },
+    "deaths": {
+    "value": 42,
+    "detail": "https://covid19.mathdro.id/api/countries/Chad/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Cameroon",
+    "confirmed": {
+    "value": 2800,
+    "detail": "https://covid19.mathdro.id/api/countries/Cameroon/confirmed"
+    },
+    "recovered": {
+    "value": 1543,
+    "detail": "https://covid19.mathdro.id/api/countries/Cameroon/recovered"
+    },
+    "deaths": {
+    "value": 136,
+    "detail": "https://covid19.mathdro.id/api/countries/Cameroon/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Central African Republic",
+    "confirmed": {
+    "value": 143,
+    "detail": "https://covid19.mathdro.id/api/countries/Central African Republic/confirmed"
+    },
+    "recovered": {
+    "value": 10,
+    "detail": "https://covid19.mathdro.id/api/countries/Central African Republic/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Central African Republic/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Holy See",
+    "confirmed": {
+    "value": 12,
+    "detail": "https://covid19.mathdro.id/api/countries/Holy See/confirmed"
+    },
+    "recovered": {
+    "value": 2,
+    "detail": "https://covid19.mathdro.id/api/countries/Holy See/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Holy See/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Egypt",
+    "confirmed": {
+    "value": 10431,
+    "detail": "https://covid19.mathdro.id/api/countries/Egypt/confirmed"
+    },
+    "recovered": {
+    "value": 2486,
+    "detail": "https://covid19.mathdro.id/api/countries/Egypt/recovered"
+    },
+    "deaths": {
+    "value": 556,
+    "detail": "https://covid19.mathdro.id/api/countries/Egypt/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Iraq",
+    "confirmed": {
+    "value": 3032,
+    "detail": "https://covid19.mathdro.id/api/countries/Iraq/confirmed"
+    },
+    "recovered": {
+    "value": 1966,
+    "detail": "https://covid19.mathdro.id/api/countries/Iraq/recovered"
+    },
+    "deaths": {
+    "value": 115,
+    "detail": "https://covid19.mathdro.id/api/countries/Iraq/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Belarus",
+    "confirmed": {
+    "value": 26772,
+    "detail": "https://covid19.mathdro.id/api/countries/Belarus/confirmed"
+    },
+    "recovered": {
+    "value": 8168,
+    "detail": "https://covid19.mathdro.id/api/countries/Belarus/recovered"
+    },
+    "deaths": {
+    "value": 151,
+    "detail": "https://covid19.mathdro.id/api/countries/Belarus/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Kyrgyzstan",
+    "confirmed": {
+    "value": 1082,
+    "detail": "https://covid19.mathdro.id/api/countries/Kyrgyzstan/confirmed"
+    },
+    "recovered": {
+    "value": 735,
+    "detail": "https://covid19.mathdro.id/api/countries/Kyrgyzstan/recovered"
+    },
+    "deaths": {
+    "value": 12,
+    "detail": "https://covid19.mathdro.id/api/countries/Kyrgyzstan/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Guinea-Bissau",
+    "confirmed": {
+    "value": 836,
+    "detail": "https://covid19.mathdro.id/api/countries/Guinea-Bissau/confirmed"
+    },
+    "recovered": {
+    "value": 26,
+    "detail": "https://covid19.mathdro.id/api/countries/Guinea-Bissau/recovered"
+    },
+    "deaths": {
+    "value": 3,
+    "detail": "https://covid19.mathdro.id/api/countries/Guinea-Bissau/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Dominican Republic",
+    "confirmed": {
+    "value": 11196,
+    "detail": "https://covid19.mathdro.id/api/countries/Dominican Republic/confirmed"
+    },
+    "recovered": {
+    "value": 3221,
+    "detail": "https://covid19.mathdro.id/api/countries/Dominican Republic/recovered"
+    },
+    "deaths": {
+    "value": 409,
+    "detail": "https://covid19.mathdro.id/api/countries/Dominican Republic/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Madagascar",
+    "confirmed": {
+    "value": 212,
+    "detail": "https://covid19.mathdro.id/api/countries/Madagascar/confirmed"
+    },
+    "recovered": {
+    "value": 107,
+    "detail": "https://covid19.mathdro.id/api/countries/Madagascar/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Madagascar/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Mauritania",
+    "confirmed": {
+    "value": 16,
+    "detail": "https://covid19.mathdro.id/api/countries/Mauritania/confirmed"
+    },
+    "recovered": {
+    "value": 6,
+    "detail": "https://covid19.mathdro.id/api/countries/Mauritania/recovered"
+    },
+    "deaths": {
+    "value": 2,
+    "detail": "https://covid19.mathdro.id/api/countries/Mauritania/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Ethiopia",
+    "confirmed": {
+    "value": 272,
+    "detail": "https://covid19.mathdro.id/api/countries/Ethiopia/confirmed"
+    },
+    "recovered": {
+    "value": 108,
+    "detail": "https://covid19.mathdro.id/api/countries/Ethiopia/recovered"
+    },
+    "deaths": {
+    "value": 5,
+    "detail": "https://covid19.mathdro.id/api/countries/Ethiopia/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Lebanon",
+    "confirmed": {
+    "value": 886,
+    "detail": "https://covid19.mathdro.id/api/countries/Lebanon/confirmed"
+    },
+    "recovered": {
+    "value": 236,
+    "detail": "https://covid19.mathdro.id/api/countries/Lebanon/recovered"
+    },
+    "deaths": {
+    "value": 26,
+    "detail": "https://covid19.mathdro.id/api/countries/Lebanon/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Laos",
+    "confirmed": {
+    "value": 19,
+    "detail": "https://covid19.mathdro.id/api/countries/Laos/confirmed"
+    },
+    "recovered": {
+    "value": 14,
+    "detail": "https://covid19.mathdro.id/api/countries/Laos/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Laos/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Kazakhstan",
+    "confirmed": {
+    "value": 5571,
+    "detail": "https://covid19.mathdro.id/api/countries/Kazakhstan/confirmed"
+    },
+    "recovered": {
+    "value": 2408,
+    "detail": "https://covid19.mathdro.id/api/countries/Kazakhstan/recovered"
+    },
+    "deaths": {
+    "value": 32,
+    "detail": "https://covid19.mathdro.id/api/countries/Kazakhstan/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Jordan",
+    "confirmed": {
+    "value": 582,
+    "detail": "https://covid19.mathdro.id/api/countries/Jordan/confirmed"
+    },
+    "recovered": {
+    "value": 392,
+    "detail": "https://covid19.mathdro.id/api/countries/Jordan/recovered"
+    },
+    "deaths": {
+    "value": 9,
+    "detail": "https://covid19.mathdro.id/api/countries/Jordan/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Mexico",
+    "confirmed": {
+    "value": 40186,
+    "detail": "https://covid19.mathdro.id/api/countries/Mexico/confirmed"
+    },
+    "recovered": {
+    "value": 26990,
+    "detail": "https://covid19.mathdro.id/api/countries/Mexico/recovered"
+    },
+    "deaths": {
+    "value": 4220,
+    "detail": "https://covid19.mathdro.id/api/countries/Mexico/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Libya",
+    "confirmed": {
+    "value": 64,
+    "detail": "https://covid19.mathdro.id/api/countries/Libya/confirmed"
+    },
+    "recovered": {
+    "value": 28,
+    "detail": "https://covid19.mathdro.id/api/countries/Libya/recovered"
+    },
+    "deaths": {
+    "value": 3,
+    "detail": "https://covid19.mathdro.id/api/countries/Libya/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Guyana",
+    "confirmed": {
+    "value": 113,
+    "detail": "https://covid19.mathdro.id/api/countries/Guyana/confirmed"
+    },
+    "recovered": {
+    "value": 41,
+    "detail": "https://covid19.mathdro.id/api/countries/Guyana/recovered"
+    },
+    "deaths": {
+    "value": 10,
+    "detail": "https://covid19.mathdro.id/api/countries/Guyana/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Seychelles",
+    "confirmed": {
+    "value": 11,
+    "detail": "https://covid19.mathdro.id/api/countries/Seychelles/confirmed"
+    },
+    "recovered": {
+    "value": 10,
+    "detail": "https://covid19.mathdro.id/api/countries/Seychelles/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Seychelles/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Rwanda",
+    "confirmed": {
+    "value": 287,
+    "detail": "https://covid19.mathdro.id/api/countries/Rwanda/confirmed"
+    },
+    "recovered": {
+    "value": 164,
+    "detail": "https://covid19.mathdro.id/api/countries/Rwanda/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Rwanda/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "South Africa",
+    "confirmed": {
+    "value": 12074,
+    "detail": "https://covid19.mathdro.id/api/countries/South Africa/confirmed"
+    },
+    "recovered": {
+    "value": 4745,
+    "detail": "https://covid19.mathdro.id/api/countries/South Africa/recovered"
+    },
+    "deaths": {
+    "value": 219,
+    "detail": "https://covid19.mathdro.id/api/countries/South Africa/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Suriname",
+    "confirmed": {
+    "value": 10,
+    "detail": "https://covid19.mathdro.id/api/countries/Suriname/confirmed"
+    },
+    "recovered": {
+    "value": 9,
+    "detail": "https://covid19.mathdro.id/api/countries/Suriname/recovered"
+    },
+    "deaths": {
+    "value": 1,
+    "detail": "https://covid19.mathdro.id/api/countries/Suriname/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Serbia",
+    "confirmed": {
+    "value": 10295,
+    "detail": "https://covid19.mathdro.id/api/countries/Serbia/confirmed"
+    },
+    "recovered": {
+    "value": 3824,
+    "detail": "https://covid19.mathdro.id/api/countries/Serbia/recovered"
+    },
+    "deaths": {
+    "value": 222,
+    "detail": "https://covid19.mathdro.id/api/countries/Serbia/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Montenegro",
+    "confirmed": {
+    "value": 324,
+    "detail": "https://covid19.mathdro.id/api/countries/Montenegro/confirmed"
+    },
+    "recovered": {
+    "value": 309,
+    "detail": "https://covid19.mathdro.id/api/countries/Montenegro/recovered"
+    },
+    "deaths": {
+    "value": 9,
+    "detail": "https://covid19.mathdro.id/api/countries/Montenegro/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Somalia",
+    "confirmed": {
+    "value": 1219,
+    "detail": "https://covid19.mathdro.id/api/countries/Somalia/confirmed"
+    },
+    "recovered": {
+    "value": 130,
+    "detail": "https://covid19.mathdro.id/api/countries/Somalia/recovered"
+    },
+    "deaths": {
+    "value": 52,
+    "detail": "https://covid19.mathdro.id/api/countries/Somalia/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Sudan",
+    "confirmed": {
+    "value": 1818,
+    "detail": "https://covid19.mathdro.id/api/countries/Sudan/confirmed"
+    },
+    "recovered": {
+    "value": 198,
+    "detail": "https://covid19.mathdro.id/api/countries/Sudan/recovered"
+    },
+    "deaths": {
+    "value": 90,
+    "detail": "https://covid19.mathdro.id/api/countries/Sudan/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Trinidad and Tobago",
+    "confirmed": {
+    "value": 116,
+    "detail": "https://covid19.mathdro.id/api/countries/Trinidad and Tobago/confirmed"
+    },
+    "recovered": {
+    "value": 107,
+    "detail": "https://covid19.mathdro.id/api/countries/Trinidad and Tobago/recovered"
+    },
+    "deaths": {
+    "value": 8,
+    "detail": "https://covid19.mathdro.id/api/countries/Trinidad and Tobago/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Sweden",
+    "confirmed": {
+    "value": 27909,
+    "detail": "https://covid19.mathdro.id/api/countries/Sweden/confirmed"
+    },
+    "recovered": {
+    "value": 4971,
+    "detail": "https://covid19.mathdro.id/api/countries/Sweden/recovered"
+    },
+    "deaths": {
+    "value": 3529,
+    "detail": "https://covid19.mathdro.id/api/countries/Sweden/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Togo",
+    "confirmed": {
+    "value": 219,
+    "detail": "https://covid19.mathdro.id/api/countries/Togo/confirmed"
+    },
+    "recovered": {
+    "value": 96,
+    "detail": "https://covid19.mathdro.id/api/countries/Togo/recovered"
+    },
+    "deaths": {
+    "value": 11,
+    "detail": "https://covid19.mathdro.id/api/countries/Togo/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "South Sudan",
+    "confirmed": {
+    "value": 203,
+    "detail": "https://covid19.mathdro.id/api/countries/South Sudan/confirmed"
+    },
+    "recovered": {
+    "value": 2,
+    "detail": "https://covid19.mathdro.id/api/countries/South Sudan/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/South Sudan/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Poland",
+    "confirmed": {
+    "value": 17469,
+    "detail": "https://covid19.mathdro.id/api/countries/Poland/confirmed"
+    },
+    "recovered": {
+    "value": 6696,
+    "detail": "https://covid19.mathdro.id/api/countries/Poland/recovered"
+    },
+    "deaths": {
+    "value": 869,
+    "detail": "https://covid19.mathdro.id/api/countries/Poland/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Fiji",
+    "confirmed": {
+    "value": 18,
+    "detail": "https://covid19.mathdro.id/api/countries/Fiji/confirmed"
+    },
+    "recovered": {
+    "value": 14,
+    "detail": "https://covid19.mathdro.id/api/countries/Fiji/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Fiji/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Portugal",
+    "confirmed": {
+    "value": 28132,
+    "detail": "https://covid19.mathdro.id/api/countries/Portugal/confirmed"
+    },
+    "recovered": {
+    "value": 3182,
+    "detail": "https://covid19.mathdro.id/api/countries/Portugal/recovered"
+    },
+    "deaths": {
+    "value": 1175,
+    "detail": "https://covid19.mathdro.id/api/countries/Portugal/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Yemen",
+    "confirmed": {
+    "value": 70,
+    "detail": "https://covid19.mathdro.id/api/countries/Yemen/confirmed"
+    },
+    "recovered": {
+    "value": 1,
+    "detail": "https://covid19.mathdro.id/api/countries/Yemen/recovered"
+    },
+    "deaths": {
+    "value": 12,
+    "detail": "https://covid19.mathdro.id/api/countries/Yemen/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Belize",
+    "confirmed": {
+    "value": 18,
+    "detail": "https://covid19.mathdro.id/api/countries/Belize/confirmed"
+    },
+    "recovered": {
+    "value": 16,
+    "detail": "https://covid19.mathdro.id/api/countries/Belize/recovered"
+    },
+    "deaths": {
+    "value": 2,
+    "detail": "https://covid19.mathdro.id/api/countries/Belize/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Turkey",
+    "confirmed": {
+    "value": 143114,
+    "detail": "https://covid19.mathdro.id/api/countries/Turkey/confirmed"
+    },
+    "recovered": {
+    "value": 101715,
+    "detail": "https://covid19.mathdro.id/api/countries/Turkey/recovered"
+    },
+    "deaths": {
+    "value": 3952,
+    "detail": "https://covid19.mathdro.id/api/countries/Turkey/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Namibia",
+    "confirmed": {
+    "value": 16,
+    "detail": "https://covid19.mathdro.id/api/countries/Namibia/confirmed"
+    },
+    "recovered": {
+    "value": 12,
+    "detail": "https://covid19.mathdro.id/api/countries/Namibia/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Namibia/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Norway",
+    "confirmed": {
+    "value": 8175,
+    "detail": "https://covid19.mathdro.id/api/countries/Norway/confirmed"
+    },
+    "recovered": {
+    "value": 32,
+    "detail": "https://covid19.mathdro.id/api/countries/Norway/recovered"
+    },
+    "deaths": {
+    "value": 229,
+    "detail": "https://covid19.mathdro.id/api/countries/Norway/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Spain",
+    "confirmed": {
+    "value": 228691,
+    "detail": "https://covid19.mathdro.id/api/countries/Spain/confirmed"
+    },
+    "recovered": {
+    "value": 140823,
+    "detail": "https://covid19.mathdro.id/api/countries/Spain/recovered"
+    },
+    "deaths": {
+    "value": 27104,
+    "detail": "https://covid19.mathdro.id/api/countries/Spain/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Pakistan",
+    "confirmed": {
+    "value": 35788,
+    "detail": "https://covid19.mathdro.id/api/countries/Pakistan/confirmed"
+    },
+    "recovered": {
+    "value": 9695,
+    "detail": "https://covid19.mathdro.id/api/countries/Pakistan/recovered"
+    },
+    "deaths": {
+    "value": 770,
+    "detail": "https://covid19.mathdro.id/api/countries/Pakistan/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "US",
+    "confirmed": {
+    "value": 1390764,
+    "detail": "https://covid19.mathdro.id/api/countries/US/confirmed"
+    },
+    "recovered": {
+    "value": 243430,
+    "detail": "https://covid19.mathdro.id/api/countries/US/recovered"
+    },
+    "deaths": {
+    "value": 84136,
+    "detail": "https://covid19.mathdro.id/api/countries/US/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Kenya",
+    "confirmed": {
+    "value": 737,
+    "detail": "https://covid19.mathdro.id/api/countries/Kenya/confirmed"
+    },
+    "recovered": {
+    "value": 281,
+    "detail": "https://covid19.mathdro.id/api/countries/Kenya/recovered"
+    },
+    "deaths": {
+    "value": 40,
+    "detail": "https://covid19.mathdro.id/api/countries/Kenya/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Peru",
+    "confirmed": {
+    "value": 76306,
+    "detail": "https://covid19.mathdro.id/api/countries/Peru/confirmed"
+    },
+    "recovered": {
+    "value": 24324,
+    "detail": "https://covid19.mathdro.id/api/countries/Peru/recovered"
+    },
+    "deaths": {
+    "value": 2169,
+    "detail": "https://covid19.mathdro.id/api/countries/Peru/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Senegal",
+    "confirmed": {
+    "value": 2105,
+    "detail": "https://covid19.mathdro.id/api/countries/Senegal/confirmed"
+    },
+    "recovered": {
+    "value": 782,
+    "detail": "https://covid19.mathdro.id/api/countries/Senegal/recovered"
+    },
+    "deaths": {
+    "value": 21,
+    "detail": "https://covid19.mathdro.id/api/countries/Senegal/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Mozambique",
+    "confirmed": {
+    "value": 104,
+    "detail": "https://covid19.mathdro.id/api/countries/Mozambique/confirmed"
+    },
+    "recovered": {
+    "value": 34,
+    "detail": "https://covid19.mathdro.id/api/countries/Mozambique/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Mozambique/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Guatemala",
+    "confirmed": {
+    "value": 1342,
+    "detail": "https://covid19.mathdro.id/api/countries/Guatemala/confirmed"
+    },
+    "recovered": {
+    "value": 121,
+    "detail": "https://covid19.mathdro.id/api/countries/Guatemala/recovered"
+    },
+    "deaths": {
+    "value": 29,
+    "detail": "https://covid19.mathdro.id/api/countries/Guatemala/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Sierra Leone",
+    "confirmed": {
+    "value": 387,
+    "detail": "https://covid19.mathdro.id/api/countries/Sierra Leone/confirmed"
+    },
+    "recovered": {
+    "value": 97,
+    "detail": "https://covid19.mathdro.id/api/countries/Sierra Leone/recovered"
+    },
+    "deaths": {
+    "value": 26,
+    "detail": "https://covid19.mathdro.id/api/countries/Sierra Leone/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Ukraine",
+    "confirmed": {
+    "value": 16847,
+    "detail": "https://covid19.mathdro.id/api/countries/Ukraine/confirmed"
+    },
+    "recovered": {
+    "value": 4143,
+    "detail": "https://covid19.mathdro.id/api/countries/Ukraine/recovered"
+    },
+    "deaths": {
+    "value": 456,
+    "detail": "https://covid19.mathdro.id/api/countries/Ukraine/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Zambia",
+    "confirmed": {
+    "value": 654,
+    "detail": "https://covid19.mathdro.id/api/countries/Zambia/confirmed"
+    },
+    "recovered": {
+    "value": 124,
+    "detail": "https://covid19.mathdro.id/api/countries/Zambia/recovered"
+    },
+    "deaths": {
+    "value": 7,
+    "detail": "https://covid19.mathdro.id/api/countries/Zambia/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Timor-Leste",
+    "confirmed": {
+    "value": 24,
+    "detail": "https://covid19.mathdro.id/api/countries/Timor-Leste/confirmed"
+    },
+    "recovered": {
+    "value": 21,
+    "detail": "https://covid19.mathdro.id/api/countries/Timor-Leste/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Timor-Leste/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Uruguay",
+    "confirmed": {
+    "value": 719,
+    "detail": "https://covid19.mathdro.id/api/countries/Uruguay/confirmed"
+    },
+    "recovered": {
+    "value": 545,
+    "detail": "https://covid19.mathdro.id/api/countries/Uruguay/recovered"
+    },
+    "deaths": {
+    "value": 19,
+    "detail": "https://covid19.mathdro.id/api/countries/Uruguay/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Nepal",
+    "confirmed": {
+    "value": 246,
+    "detail": "https://covid19.mathdro.id/api/countries/Nepal/confirmed"
+    },
+    "recovered": {
+    "value": 35,
+    "detail": "https://covid19.mathdro.id/api/countries/Nepal/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Nepal/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Tunisia",
+    "confirmed": {
+    "value": 1032,
+    "detail": "https://covid19.mathdro.id/api/countries/Tunisia/confirmed"
+    },
+    "recovered": {
+    "value": 759,
+    "detail": "https://covid19.mathdro.id/api/countries/Tunisia/recovered"
+    },
+    "deaths": {
+    "value": 45,
+    "detail": "https://covid19.mathdro.id/api/countries/Tunisia/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Saint Kitts and Nevis",
+    "confirmed": {
+    "value": 15,
+    "detail": "https://covid19.mathdro.id/api/countries/Saint Kitts and Nevis/confirmed"
+    },
+    "recovered": {
+    "value": 14,
+    "detail": "https://covid19.mathdro.id/api/countries/Saint Kitts and Nevis/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Saint Kitts and Nevis/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Sao Tome and Principe",
+    "confirmed": {
+    "value": 220,
+    "detail": "https://covid19.mathdro.id/api/countries/Sao Tome and Principe/confirmed"
+    },
+    "recovered": {
+    "value": 4,
+    "detail": "https://covid19.mathdro.id/api/countries/Sao Tome and Principe/recovered"
+    },
+    "deaths": {
+    "value": 6,
+    "detail": "https://covid19.mathdro.id/api/countries/Sao Tome and Principe/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Uzbekistan",
+    "confirmed": {
+    "value": 2636,
+    "detail": "https://covid19.mathdro.id/api/countries/Uzbekistan/confirmed"
+    },
+    "recovered": {
+    "value": 2076,
+    "detail": "https://covid19.mathdro.id/api/countries/Uzbekistan/recovered"
+    },
+    "deaths": {
+    "value": 11,
+    "detail": "https://covid19.mathdro.id/api/countries/Uzbekistan/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Latvia",
+    "confirmed": {
+    "value": 962,
+    "detail": "https://covid19.mathdro.id/api/countries/Latvia/confirmed"
+    },
+    "recovered": {
+    "value": 627,
+    "detail": "https://covid19.mathdro.id/api/countries/Latvia/recovered"
+    },
+    "deaths": {
+    "value": 19,
+    "detail": "https://covid19.mathdro.id/api/countries/Latvia/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Paraguay",
+    "confirmed": {
+    "value": 740,
+    "detail": "https://covid19.mathdro.id/api/countries/Paraguay/confirmed"
+    },
+    "recovered": {
+    "value": 182,
+    "detail": "https://covid19.mathdro.id/api/countries/Paraguay/recovered"
+    },
+    "deaths": {
+    "value": 11,
+    "detail": "https://covid19.mathdro.id/api/countries/Paraguay/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Saudi Arabia",
+    "confirmed": {
+    "value": 44830,
+    "detail": "https://covid19.mathdro.id/api/countries/Saudi Arabia/confirmed"
+    },
+    "recovered": {
+    "value": 17622,
+    "detail": "https://covid19.mathdro.id/api/countries/Saudi Arabia/recovered"
+    },
+    "deaths": {
+    "value": 273,
+    "detail": "https://covid19.mathdro.id/api/countries/Saudi Arabia/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Comoros",
+    "confirmed": {
+    "value": 11,
+    "detail": "https://covid19.mathdro.id/api/countries/Comoros/confirmed"
+    },
+    "recovered": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Comoros/recovered"
+    },
+    "deaths": {
+    "value": 1,
+    "detail": "https://covid19.mathdro.id/api/countries/Comoros/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Armenia",
+    "confirmed": {
+    "value": 3860,
+    "detail": "https://covid19.mathdro.id/api/countries/Armenia/confirmed"
+    },
+    "recovered": {
+    "value": 1572,
+    "detail": "https://covid19.mathdro.id/api/countries/Armenia/recovered"
+    },
+    "deaths": {
+    "value": 49,
+    "detail": "https://covid19.mathdro.id/api/countries/Armenia/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "United Arab Emirates",
+    "confirmed": {
+    "value": 21084,
+    "detail": "https://covid19.mathdro.id/api/countries/United Arab Emirates/confirmed"
+    },
+    "recovered": {
+    "value": 6930,
+    "detail": "https://covid19.mathdro.id/api/countries/United Arab Emirates/recovered"
+    },
+    "deaths": {
+    "value": 208,
+    "detail": "https://covid19.mathdro.id/api/countries/United Arab Emirates/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Tajikistan",
+    "confirmed": {
+    "value": 801,
+    "detail": "https://covid19.mathdro.id/api/countries/Tajikistan/confirmed"
+    },
+    "recovered": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Tajikistan/recovered"
+    },
+    "deaths": {
+    "value": 23,
+    "detail": "https://covid19.mathdro.id/api/countries/Tajikistan/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Singapore",
+    "confirmed": {
+    "value": 26098,
+    "detail": "https://covid19.mathdro.id/api/countries/Singapore/confirmed"
+    },
+    "recovered": {
+    "value": 4809,
+    "detail": "https://covid19.mathdro.id/api/countries/Singapore/recovered"
+    },
+    "deaths": {
+    "value": 21,
+    "detail": "https://covid19.mathdro.id/api/countries/Singapore/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Western Sahara",
+    "confirmed": {
+    "value": 6,
+    "detail": "https://covid19.mathdro.id/api/countries/Western Sahara/confirmed"
+    },
+    "recovered": {
+    "value": 6,
+    "detail": "https://covid19.mathdro.id/api/countries/Western Sahara/recovered"
+    },
+    "deaths": {
+    "value": 0,
+    "detail": "https://covid19.mathdro.id/api/countries/Western Sahara/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Equatorial Guinea",
+    "confirmed": {
+    "value": 522,
+    "detail": "https://covid19.mathdro.id/api/countries/Equatorial Guinea/confirmed"
+    },
+    "recovered": {
+    "value": 13,
+    "detail": "https://covid19.mathdro.id/api/countries/Equatorial Guinea/recovered"
+    },
+    "deaths": {
+    "value": 6,
+    "detail": "https://covid19.mathdro.id/api/countries/Equatorial Guinea/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Slovakia",
+    "confirmed": {
+    "value": 1477,
+    "detail": "https://covid19.mathdro.id/api/countries/Slovakia/confirmed"
+    },
+    "recovered": {
+    "value": 1112,
+    "detail": "https://covid19.mathdro.id/api/countries/Slovakia/recovered"
+    },
+    "deaths": {
+    "value": 27,
+    "detail": "https://covid19.mathdro.id/api/countries/Slovakia/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    },
+    {
+    "name": "Zimbabwe",
+    "confirmed": {
+    "value": 37,
+    "detail": "https://covid19.mathdro.id/api/countries/Zimbabwe/confirmed"
+    },
+    "recovered": {
+    "value": 12,
+    "detail": "https://covid19.mathdro.id/api/countries/Zimbabwe/recovered"
+    },
+    "deaths": {
+    "value": 4,
+    "detail": "https://covid19.mathdro.id/api/countries/Zimbabwe/deaths"
+    },
+    "lastUpdate": "2020-05-14T12:32:25.000Z"
+    },
+    {
+    "name": "Morocco",
+    "confirmed": {
+    "value": 6593,
+    "detail": "https://covid19.mathdro.id/api/countries/Morocco/confirmed"
+    },
+    "recovered": {
+    "value": 3222,
+    "detail": "https://covid19.mathdro.id/api/countries/Morocco/recovered"
+    },
+    "deaths": {
+    "value": 189,
+    "detail": "https://covid19.mathdro.id/api/countries/Morocco/deaths"
+    },
+    "lastUpdate": "2020-05-14T11:32:26.000Z"
+    }
+    ]
