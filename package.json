@@ -15,7 +15,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^2.1.8"
   },
-  "homepage":"https:bdbose/github.io/Covid",
+  "homepage":"https://bdbose/github.io/Covid",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
