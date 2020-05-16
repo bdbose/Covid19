@@ -9,16 +9,16 @@
     "countup": "^1.8.2",
     "datamap": "0.0.2",
     "datamaps": "^0.5.9",
-    "gh-pages": "^2.2.0",
+    "heroku": "^7.41.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^2.1.8"
   },
-  "homepage":"https://bdbose/github.io/Covid",
+  "homepage": "https://bdbose.github.io/Covid19",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -31,12 +31,15 @@
     "production": [
       ">0.2%",
       "not dead",
-      "not op_mini all" 
+      "not op_mini all"
     ],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
