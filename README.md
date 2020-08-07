@@ -13,3 +13,5 @@ Used to develop:
 -Countup.js [ For the count-up animation/transition ]
 
 -CSS
+
+![](WhatsApp%20Image%202020-08-07%20at%2023.27.26.jpeg)
