@@ -1,6 +1,6 @@
-This is a COVID 19 data visualizer .
+# This is a COVID 19 data visualizer .
 
-Api used: https://covid19.mathdro.id/api
+## Api used: https://covid19.mathdro.id/api
 
 Confirmed , Recovered , Active and Decrease cases are shown for every country in the World.
 
@@ -13,4 +13,3 @@ Used to develop:
 -Countup.js [ For the count-up animation/transition ]
 
 -CSS
-
